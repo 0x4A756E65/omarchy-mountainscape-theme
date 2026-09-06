@@ -65,9 +65,20 @@ Edit `colors.toml`, then run `omarchy theme set mountainscape`. The initial test
 omarchy theme set retro-82
 ```
 
-## Wallpaper
+## Wallpapers
 
-[Mountainscape wallpaper](backgrounds/mountainscape.jpg) is the supplied `wallhaven.jpg`, copied under the theme name without changing the image or the original download. The original artist, Wallhaven item URL, and redistribution terms were not provided; record them before a public release. No wallpaper license is asserted here.
+Four wallpaper options are included, copied under Mountainscape filenames without changing the images or original downloads:
+
+| Supplied file | Theme filename |
+| --- | --- |
+| `wallhaven.jpg` | [mountainscape.jpg](backgrounds/mountainscape.jpg) |
+| `wallhaven3.jpg` | [mountainscape-03.jpg](backgrounds/mountainscape-03.jpg) |
+| `wallhaven4.jpg` | [mountainscape-04.jpg](backgrounds/mountainscape-04.jpg) |
+| `wallhaven5.jpg` | [mountainscape-05.jpg](backgrounds/mountainscape-05.jpg) |
+
+Choose one in the background picker with `omarchy theme bg-switcher`, or cycle with `omarchy theme bg next`.
+
+The original artists, Wallhaven item URLs, and redistribution terms were not provided; record them before a public release. No wallpaper license is asserted here.
 
 ## References
 
