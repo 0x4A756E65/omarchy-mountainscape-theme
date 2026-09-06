@@ -8,13 +8,13 @@ The preview is a real desktop capture with Neovim, btop, and a terminal palette.
 
 ## Install
 
-Requires Omarchy 4. Tested on 4.0.2-1. This repository is private during local testing.
+Requires Omarchy 4. Tested on 4.0.2-1.
 
 ```bash
 omarchy theme install https://github.com/0x4A756E65/omarchy-mountainscape-theme
 ```
 
-For a private repository, use an authenticated SSH clone:
+Alternatively, clone with SSH:
 
 ```bash
 git clone git@github.com:0x4A756E65/omarchy-mountainscape-theme.git ~/.config/omarchy/themes/mountainscape
@@ -88,6 +88,8 @@ Four wallpaper options are included, copied under Mountainscape filenames withou
 | `wallhaven4.jpg` | [mountainscape-04.jpg](backgrounds/mountainscape-04.jpg) |
 | `wallhaven5.jpg` | [mountainscape-05.jpg](backgrounds/mountainscape-05.jpg) |
 
+A fresh installation starts with `mountainscape-03.jpg` (Summit Cloud), following Omarchy’s alphabetical ordering. The valley image shown in the preview is `mountainscape.jpg`.
+
 Choose one in the background picker with `omarchy theme bg-switcher`, or cycle with `omarchy theme bg next`.
 
 See [wallpaper provenance and permissions](WALLPAPERS.md) for the recovered source links. The default photograph is marked all rights reserved, alternatives 03 and 04 remain unverified, and alternative 05 is available under the Unsplash License. Wallpaper rights are documented separately from the theme configuration.
@@ -99,6 +101,8 @@ All wallpaper photographs remain the property of their respective copyright hold
 Wallhaven and Unsplash are source platforms; they are not necessarily the copyright holders. Photographers are credited where identified, and original source links and known license terms are recorded in [WALLPAPERS.md](WALLPAPERS.md).
 
 The photographs are separate from the theme configuration and are not relicensed by this project. Any permissions granted by their copyright holders, including the Unsplash License where applicable, remain in effect. This attribution notice does not itself grant permission to reuse or redistribute a photograph.
+
+See the [final color comparison](FINAL-COLOR-REVIEW.md) for the release review.
 
 ## Design benchmark
 
