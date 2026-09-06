@@ -22,3 +22,22 @@ Neovim, Foot's swatches, and btop now visibly share the same surface and color f
 All 50 explicit opaque VS Code foreground/background pairs pass 4.5:1 (minimum 5.77:1). Surface and foreground brightness ramps remain ordered. The editor theme builder reproduces the checked-in file exactly. Ratios describe opaque source colors; user-selected transparency can alter rendered contrast. Neovim current-line/completion corrections use the documented optional addon.
 
 The prior clean-clone app generation checks remain applicable: no runtime palette or template was changed. The screenshot shows sample code and CPU/memory graphs, with the top bar and identifying labels excluded. This is a focused color review, not exhaustive live testing of every integration.
+
+## Catppuccin reference: crisp, soft, and natural
+
+Compared with the [official Catppuccin palettes](https://catppuccin.com/palette/) and the installed Omarchy Catppuccin/Mocha adaptation. The useful inspiration is pastel content colors, consistent surface tiers, and predictable roles. Mountainscape keeps its own hues and hierarchy.
+
+| Property | Mountainscape | Installed Catppuccin |
+| --- | --- | --- |
+| background | `#181b23` | `#1e1e2e` |
+| foreground | `#dce3ec` | `#cdd6f4` |
+| cyan | `#66cccc` | `#94e2d5` |
+| blue | `#abbcda` | `#89b4fa` |
+| green | `#a9bd86` | `#a6e3a1` |
+| red | `#dc9698` | `#f38ba8` |
+
+Mountainscape: main background OKLCH chroma 0.016; mean chroma across the six normal chromatic ANSI colors 0.075.
+
+Catppuccin: main background OKLCH chroma 0.030; mean chroma across the six normal chromatic ANSI colors 0.096.
+
+Mountainscape uses less violet in the dark surfaces, more neutral snow-colored text, a glacial teal interaction accent, and quieter powder blue. Moss green, muted gold, and dusty rose connect it to vegetation and mountain light. These are deliberate choices for a refreshing outdoor character. Softness comes from restrained chroma and limited accent area while retaining readable text; it does not require dim comments or indistinct selections. No further palette edits are recommended for this release.
