@@ -1,10 +1,10 @@
 # Mountainscape
 
-An alpine dark theme for [Omarchy](https://omarchy.org): blue-charcoal surfaces, glacial teal, powder-blue highlights, and soft snow-white text.
+A mountain-inspired dark theme for [Omarchy](https://omarchy.org): blue-charcoal surfaces, glacial teal, powder-blue highlights, and soft snow-white text.
 
 ![Mountainscape design preview](preview.png)
 
-The preview is a composed UI illustration of the palette; actual layouts follow your Omarchy configuration.
+The preview is a composed UI illustration of the palette; actual layouts follow your Omarchy configuration. See the [visual review](REVIEW.md) for the four-wallpaper comparison, native editor capture, and contrast checks.
 
 ## Install
 
@@ -41,11 +41,11 @@ If already installed, select **Mountainscape** in the theme picker, or run `omar
 | Warning | `#d6bd7b` |
 | Error | `#dc9698` |
 
-An AI design consultant reviewed the supplied photograph and seed palette. Exact teal, powder blue, and slate-purple seeds remain. Pure black becomes blue-tinted charcoal; neutral gray becomes cool ash. Warm moss and gold echo the sunlit slopes and keep status colors distinct. Text contrast on the main surface is 13.31:1; comments are 5.77:1. Full semantic and ANSI palette: [colors.toml](colors.toml).
+An AI design consultant reviewed the supplied photograph and seed palette. The review covers all four photographs. Exact teal, powder blue, and slate-purple seeds remain. Pure black becomes blue-tinted charcoal; neutral gray becomes cool ash. Warm moss and gold echo the sunlit slopes and keep status colors distinct. Text contrast on the main surface is 13.31:1; comments are 5.77:1. The light foreground is snow-tinted `#e6ebf2`, preserving a steadily increasing brightness ramp. Full semantic and ANSI palette: [colors.toml](colors.toml).
 
 ## App coverage
 
-Following the compact approach of DHH's [Giants](https://github.com/dhh/omarchy-giants-theme) and [Zonda Zoom](https://github.com/dhh/omarchy-zonda-zoom-theme), the palette is the source of truth. Omarchy generates app configurations when the theme is selected:
+Following the compact approach of DHH's [Giants](https://github.com/dhh/omarchy-giants-theme) and [Zonda Zoom](https://github.com/dhh/omarchy-zonda-zoom-theme), the palette is the source of truth. Omarchy generates app configurations when the theme is selected. VS Code uses the included color-only theme, generated from the same palette with targeted contrast corrections:
 
 - Omarchy shell: bar, launcher, menus, notifications, popups, OSD, and lock screen.
 - Hyprland: focused and inactive window borders.
@@ -57,9 +57,21 @@ Following the compact approach of DHH's [Giants](https://github.com/dhh/omarchy-
 
 Obsidian requires selecting the **Omarchy** theme in Appearance. Existing apps may need reopening. Optional integrations and user theme-sync opt-outs follow Omarchy's own behavior. Older Waybar/Walker-based Omarchy versions are not targeted.
 
+## Neovim completion contrast
+
+The local test setup includes a small Aether adjustment for completion selections and current-line shading. It activates only for Mountainscape's background and accent, preserving readable comments and completion details. Other palettes retain Aether's defaults.
+
+Omarchy intentionally does not automatically load Lua from downloaded themes. To opt into this adjustment after cloning the repository, copy the plugin spec manually and restart Neovim:
+
+```bash
+cp extras/mountainscape-neovim.lua ~/.config/nvim/lua/plugins/mountainscape-neovim.lua
+```
+
+The normal generated Neovim palette works without this optional adjustment. Remove the copied file to undo the adjustment. The VS Code template derives from Omarchy; its license is preserved in [tools/OMARCHY-LICENSE](tools/OMARCHY-LICENSE).
+
 ## Local development
 
-Edit `colors.toml`, then run `omarchy theme set mountainscape`. The initial test installation links directly to this working tree, so edits apply without copying. To return to the theme used before the initial test:
+Edit `colors.toml`, run `python tools/build-vscode-theme.py` from the repository, then run `omarchy theme set mountainscape`. The editor template is based on Omarchy 4.0.2; it keeps secondary buttons and hover states readable without changing the palette. Recheck it when upgrading Omarchy. The initial test installation links directly to this working tree, so edits apply without copying. To return to the theme used before the initial test:
 
 ```bash
 omarchy theme set retro-82
