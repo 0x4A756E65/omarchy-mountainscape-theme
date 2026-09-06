@@ -1,5 +1,7 @@
 # Wallpaper provenance
 
+All photographs remain the property of their respective copyright holders. Mountainscape claims no ownership and does not relicense them. See the [artwork notice](NOTICE.md).
+
 Checked September 6, 2026 using the user's supplied download URLs, targeted Chrome download records, Wallhaven's public metadata API, and linked original sources. This document records attribution and permission evidence; it does not grant rights to the photographs.
 
 | Theme file | Download name | Wallhaven page | Original source / status |

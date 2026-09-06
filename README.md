@@ -92,6 +92,14 @@ Choose one in the background picker with `omarchy theme bg-switcher`, or cycle w
 
 See [wallpaper provenance and permissions](WALLPAPERS.md) for the recovered source links. The default photograph is marked all rights reserved, alternatives 03 and 04 remain unverified, and alternative 05 is available under the Unsplash License. Wallpaper rights are documented separately from the theme configuration.
 
+## Wallpaper copyright and attribution
+
+All wallpaper photographs remain the property of their respective copyright holders. Mountainscape claims no ownership of these photographs. Renaming a file or including it in a theme, screenshot, or preview does not change its ownership or license.
+
+Wallhaven and Unsplash are source platforms; they are not necessarily the copyright holders. Photographers are credited where identified, and original source links and known license terms are recorded in [WALLPAPERS.md](WALLPAPERS.md).
+
+The photographs are separate from the theme configuration and are not relicensed by this project. Any permissions granted by their copyright holders, including the Unsplash License where applicable, remain in effect. This attribution notice does not itself grant permission to reuse or redistribute a photograph.
+
 ## Design benchmark
 
 See the [25-theme GitHub-star benchmark](BENCHMARK.md) for the complete ranked sample, color measurements, palette comparison, and design decisions.
