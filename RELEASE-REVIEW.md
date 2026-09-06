@@ -21,3 +21,7 @@ The theme is visually and technically ready for public testing on Omarchy 4. No 
 Runtime configuration, scripts, and image assets are byte-identical to the clean clone that passed isolated Omarchy staging, stock template generation without personal overrides, required app output checks, TOML/JSON parsing, VS Code override preservation, deterministic generation, and Foot validation. No repeat end-to-end test was warranted for documentation-only changes. Rechecked all four wallpaper hashes against the original downloads, palette parsing, editor JSON, tracked symlinks (none), and the active theme name. The previous four-wallpaper visual review remains applicable; no colors or images were changed.
 
 Supported app coverage is generated through Omarchy 4. GTK uses its normal dark appearance/icons; arbitrary websites and every third-party app are not custom-skinned. Neovim completion/current-line refinements require the documented optional addon. Not every app and interactive state was exercised live.
+
+## Screenshot follow-up
+
+A real 16:9 desktop capture now exists as preview.png, with a 1200×675 WebP in docs/gallery-preview.webp. It shows sample Neovim code, live btop CPU/memory panels, and terminal swatches. The top bar, process list, CPU model name, and personal paths are excluded. The earlier missing-gallery-screenshot finding is resolved. A review-session btop fallback to its default colors was corrected by selecting the registered current theme name; the repository palette was already correct.

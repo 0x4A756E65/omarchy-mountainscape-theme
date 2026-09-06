@@ -2,9 +2,9 @@
 
 A mountain-inspired dark theme for [Omarchy](https://omarchy.org): blue-charcoal surfaces, glacial teal, powder-blue highlights, and soft snow-white text.
 
-![Mountainscape design preview](preview.png)
+![Mountainscape desktop screenshot](preview.png)
 
-The preview is a composed UI illustration of the palette; actual layouts follow your Omarchy configuration. See the [visual review](REVIEW.md) for the four-wallpaper comparison, native editor capture, and contrast checks.
+The preview is a real desktop capture with Neovim, btop, and a terminal palette. It uses sample code and a CPU/memory-only monitor view; the top bar is excluded. A [1200×675 gallery image](docs/gallery-preview.webp) is included. See the [visual review](REVIEW.md) for the four-wallpaper comparison and contrast checks.
 
 ## Install
 
