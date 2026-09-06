@@ -90,7 +90,7 @@ Four wallpaper options are included, copied under Mountainscape filenames withou
 
 Choose one in the background picker with `omarchy theme bg-switcher`, or cycle with `omarchy theme bg next`.
 
-The original artists, Wallhaven item URLs, and redistribution terms were not provided; record them before a public release. No wallpaper license is asserted here.
+See [wallpaper provenance and permissions](WALLPAPERS.md) for the recovered source links. The default photograph is marked all rights reserved, alternatives 03 and 04 remain unverified, and alternative 05 is available under the Unsplash License. The complete wallpaper bundle is not yet cleared for public release.
 
 ## Design benchmark
 
