@@ -64,7 +64,7 @@ The local test setup includes a small Aether adjustment for completion selection
 Omarchy intentionally does not automatically load Lua from downloaded themes. To opt into this adjustment after cloning the repository, copy the plugin spec manually and restart Neovim:
 
 ```bash
-cp extras/mountainscape-neovim.lua ~/.config/nvim/lua/plugins/mountainscape-neovim.lua
+cp ~/.config/omarchy/themes/mountainscape/extras/mountainscape-neovim.lua ~/.config/nvim/lua/plugins/mountainscape-neovim.lua
 ```
 
 The normal generated Neovim palette works without this optional adjustment. Remove the copied file to undo the adjustment. The VS Code template derives from Omarchy; its license is preserved in [tools/OMARCHY-LICENSE](tools/OMARCHY-LICENSE).
@@ -90,7 +90,7 @@ Four wallpaper options are included, copied under Mountainscape filenames withou
 
 Choose one in the background picker with `omarchy theme bg-switcher`, or cycle with `omarchy theme bg next`.
 
-See [wallpaper provenance and permissions](WALLPAPERS.md) for the recovered source links. The default photograph is marked all rights reserved, alternatives 03 and 04 remain unverified, and alternative 05 is available under the Unsplash License. The complete wallpaper bundle is not yet cleared for public release.
+See [wallpaper provenance and permissions](WALLPAPERS.md) for the recovered source links. The default photograph is marked all rights reserved, alternatives 03 and 04 remain unverified, and alternative 05 is available under the Unsplash License. Wallpaper rights are documented separately from the theme configuration.
 
 ## Design benchmark
 
