@@ -92,6 +92,10 @@ Choose one in the background picker with `omarchy theme bg-switcher`, or cycle w
 
 The original artists, Wallhaven item URLs, and redistribution terms were not provided; record them before a public release. No wallpaper license is asserted here.
 
+## Design benchmark
+
+See the [25-theme GitHub-star benchmark](BENCHMARK.md) for the complete ranked sample, color measurements, palette comparison, and design decisions.
+
 ## References
 
 - [Omarchy theming documentation](https://github.com/basecamp/omarchy/blob/quattro/docs/theming.md)

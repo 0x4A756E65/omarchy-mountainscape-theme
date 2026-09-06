@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1240" viewBox="0 0 1160 1240">
+<rect width="1160" height="1240" fill="#181b23"/>
+<g font-family="sans-serif" fill="#dce3ec"><text x="32" y="45" font-size="26">Mountainscape · 25-theme palette study</text><text x="32" y="76" font-size="14" fill="#929ba8">GitHub-star catalog snapshot · September 6, 2026 · extracted opaque palette values</text>
+<text x="345" y="114" font-size="12">BG</text>
+<text x="431" y="114" font-size="12">Text</text>
+<text x="517" y="114" font-size="12">Accent</text>
+<text x="603" y="114" font-size="12">Red</text>
+<text x="689" y="114" font-size="12">Green</text>
+<text x="775" y="114" font-size="12">Yellow</text>
+<text x="861" y="114" font-size="12">Blue</text>
+<text x="947" y="114" font-size="12">Magenta</text>
+<text x="1033" y="114" font-size="12">Cyan</text>
+<text x="32" y="156" font-size="16">★ Mountainscape</text>
+<rect x="335" y="133" width="72" height="30" rx="4" fill="#181b23" stroke="#424153"/>
+<rect x="421" y="133" width="72" height="30" rx="4" fill="#dce3ec" stroke="#424153"/>
+<rect x="507" y="133" width="72" height="30" rx="4" fill="#66cccc" stroke="#424153"/>
+<rect x="593" y="133" width="72" height="30" rx="4" fill="#dc9698" stroke="#424153"/>
+<rect x="679" y="133" width="72" height="30" rx="4" fill="#a9bd86" stroke="#424153"/>
+<rect x="765" y="133" width="72" height="30" rx="4" fill="#d6bd7b" stroke="#424153"/>
+<rect x="851" y="133" width="72" height="30" rx="4" fill="#abbcda" stroke="#424153"/>
+<rect x="937" y="133" width="72" height="30" rx="4" fill="#baacd1" stroke="#424153"/>
+<rect x="1023" y="133" width="72" height="30" rx="4" fill="#66cccc" stroke="#424153"/>
+<text x="32" y="197" font-size="16">01  Lumon</text>
+<rect x="335" y="174" width="72" height="30" rx="4" fill="#1b2d40" stroke="#424153"/>
+<rect x="421" y="174" width="72" height="30" rx="4" fill="#d6e2ee" stroke="#424153"/>
+<rect x="507" y="174" width="72" height="30" rx="4" fill="#6fb8e3" stroke="#424153"/>
+<rect x="593" y="174" width="72" height="30" rx="4" fill="#4d86b0" stroke="#424153"/>
+<rect x="679" y="174" width="72" height="30" rx="4" fill="#5e95bc" stroke="#424153"/>
+<rect x="765" y="174" width="72" height="30" rx="4" fill="#6fa4c9" stroke="#424153"/>
+<rect x="851" y="174" width="72" height="30" rx="4" fill="#6fb8e3" stroke="#424153"/>
+<rect x="937" y="174" width="72" height="30" rx="4" fill="#8bc9eb" stroke="#424153"/>
+<rect x="1023" y="174" width="72" height="30" rx="4" fill="#b4e4f6" stroke="#424153"/>
+<text x="32" y="238" font-size="16">02  Miasma</text>
+<rect x="335" y="215" width="72" height="30" rx="4" fill="#222222" stroke="#424153"/>
+<rect x="421" y="215" width="72" height="30" rx="4" fill="#c2c2b0" stroke="#424153"/>
+<rect x="507" y="215" width="72" height="30" rx="4" fill="#78824b" stroke="#424153"/>
+<rect x="593" y="215" width="72" height="30" rx="4" fill="#685742" stroke="#424153"/>
+<rect x="679" y="215" width="72" height="30" rx="4" fill="#5f875f" stroke="#424153"/>
+<rect x="765" y="215" width="72" height="30" rx="4" fill="#b36d43" stroke="#424153"/>
+<rect x="851" y="215" width="72" height="30" rx="4" fill="#78824b" stroke="#424153"/>
+<rect x="937" y="215" width="72" height="30" rx="4" fill="#bb7744" stroke="#424153"/>
+<rect x="1023" y="215" width="72" height="30" rx="4" fill="#c9a554" stroke="#424153"/>
+<text x="32" y="279" font-size="16">03  Copper Night</text>
+<rect x="335" y="256" width="72" height="30" rx="4" fill="#11111b" stroke="#424153"/>
+<rect x="421" y="256" width="72" height="30" rx="4" fill="#cdd6f4" stroke="#424153"/>
+<rect x="507" y="256" width="72" height="30" rx="4" fill="#fab387" stroke="#424153"/>
+<rect x="593" y="256" width="72" height="30" rx="4" fill="#f38ba8" stroke="#424153"/>
+<rect x="679" y="256" width="72" height="30" rx="4" fill="#a6e3a1" stroke="#424153"/>
+<rect x="765" y="256" width="72" height="30" rx="4" fill="#f9e2af" stroke="#424153"/>
+<rect x="851" y="256" width="72" height="30" rx="4" fill="#89b4fa" stroke="#424153"/>
+<rect x="937" y="256" width="72" height="30" rx="4" fill="#cba6f7" stroke="#424153"/>
+<rect x="1023" y="256" width="72" height="30" rx="4" fill="#94e2d5" stroke="#424153"/>
+<text x="32" y="320" font-size="16">04  Aetheria</text>
+<rect x="335" y="297" width="72" height="30" rx="4" fill="#0e091d" stroke="#424153"/>
+<rect x="421" y="297" width="72" height="30" rx="4" fill="#14B9B5" stroke="#424153"/>
+<rect x="507" y="297" width="72" height="30" rx="4" fill="#BE3F50" stroke="#424153"/>
+<rect x="593" y="297" width="72" height="30" rx="4" fill="#c8e967" stroke="#424153"/>
+<rect x="679" y="297" width="72" height="30" rx="4" fill="#E20342" stroke="#424153"/>
+<rect x="765" y="297" width="72" height="30" rx="4" fill="#7cd699" stroke="#424153"/>
+<rect x="851" y="297" width="72" height="30" rx="4" fill="#BE3F50" stroke="#424153"/>
+<rect x="937" y="297" width="72" height="30" rx="4" fill="#9147a8" stroke="#424153"/>
+<rect x="1023" y="297" width="72" height="30" rx="4" fill="#FF7F41" stroke="#424153"/>
+<text x="32" y="361" font-size="16">05  Akane</text>
+<rect x="335" y="338" width="72" height="30" rx="4" fill="#12101c" stroke="#424153"/>
+<rect x="421" y="338" width="72" height="30" rx="4" fill="#f0c4a8" stroke="#424153"/>
+<rect x="507" y="338" width="72" height="30" rx="4" fill="#e15a48" stroke="#424153"/>
+<rect x="593" y="338" width="72" height="30" rx="4" fill="#d6453d" stroke="#424153"/>
+<rect x="679" y="338" width="72" height="30" rx="4" fill="#7e9a6a" stroke="#424153"/>
+<rect x="765" y="338" width="72" height="30" rx="4" fill="#f0b45a" stroke="#424153"/>
+<rect x="851" y="338" width="72" height="30" rx="4" fill="#5b7fa8" stroke="#424153"/>
+<rect x="937" y="338" width="72" height="30" rx="4" fill="#c45c78" stroke="#424153"/>
+<rect x="1023" y="338" width="72" height="30" rx="4" fill="#4a9bb0" stroke="#424153"/>
+<text x="32" y="402" font-size="16">06  RetroPC</text>
+<rect x="335" y="379" width="72" height="30" rx="4" fill="#0A0A08" stroke="#424153"/>
+<rect x="421" y="379" width="72" height="30" rx="4" fill="#FFB000" stroke="#424153"/>
+<rect x="507" y="379" width="72" height="30" rx="4" fill="#CC9900" stroke="#424153"/>
+<rect x="593" y="379" width="72" height="30" rx="4" fill="#FF8800" stroke="#424153"/>
+<rect x="679" y="379" width="72" height="30" rx="4" fill="#FFCC00" stroke="#424153"/>
+<rect x="765" y="379" width="72" height="30" rx="4" fill="#FFD700" stroke="#424153"/>
+<rect x="851" y="379" width="72" height="30" rx="4" fill="#CC9900" stroke="#424153"/>
+<rect x="937" y="379" width="72" height="30" rx="4" fill="#FF9900" stroke="#424153"/>
+<rect x="1023" y="379" width="72" height="30" rx="4" fill="#CC9900" stroke="#424153"/>
+<text x="32" y="443" font-size="16">07  Aamis</text>
+<rect x="335" y="420" width="72" height="30" rx="4" fill="#0f0f0f" stroke="#424153"/>
+<rect x="421" y="420" width="72" height="30" rx="4" fill="#eadccc" stroke="#424153"/>
+<rect x="507" y="420" width="72" height="30" rx="4" fill="#e2be8a" stroke="#424153"/>
+<rect x="593" y="420" width="72" height="30" rx="4" fill="#e25d6c" stroke="#424153"/>
+<rect x="679" y="420" width="72" height="30" rx="4" fill="#cea37f" stroke="#424153"/>
+<rect x="765" y="420" width="72" height="30" rx="4" fill="#f4bb54" stroke="#424153"/>
+<rect x="851" y="420" width="72" height="30" rx="4" fill="#e2be8a" stroke="#424153"/>
+<rect x="937" y="420" width="72" height="30" rx="4" fill="#ede4c8" stroke="#424153"/>
+<rect x="1023" y="420" width="72" height="30" rx="4" fill="#e8ab3b" stroke="#424153"/>
+<text x="32" y="484" font-size="16">08  Retro Fallout</text>
+<rect x="335" y="461" width="72" height="30" rx="4" fill="#0a0f09" stroke="#424153"/>
+<rect x="421" y="461" width="72" height="30" rx="4" fill="#95ff80" stroke="#424153"/>
+<rect x="507" y="461" width="72" height="30" rx="4" fill="#6EBF5D" stroke="#424153"/>
+<rect x="593" y="461" width="72" height="30" rx="4" fill="#FF5555" stroke="#424153"/>
+<rect x="679" y="461" width="72" height="30" rx="4" fill="#95FF80" stroke="#424153"/>
+<rect x="765" y="461" width="72" height="30" rx="4" fill="#487041" stroke="#424153"/>
+<rect x="851" y="461" width="72" height="30" rx="4" fill="#6EBF5D" stroke="#424153"/>
+<rect x="937" y="461" width="72" height="30" rx="4" fill="#7BCF6B" stroke="#424153"/>
+<rect x="1023" y="461" width="72" height="30" rx="4" fill="#62A058" stroke="#424153"/>
+<text x="32" y="525" font-size="16">09  Solitude</text>
+<rect x="335" y="502" width="72" height="30" rx="4" fill="#101315" stroke="#424153"/>
+<rect x="421" y="502" width="72" height="30" rx="4" fill="#cacccc" stroke="#424153"/>
+<rect x="507" y="502" width="72" height="30" rx="4" fill="#798186" stroke="#424153"/>
+<rect x="593" y="502" width="72" height="30" rx="4" fill="#565d60" stroke="#424153"/>
+<rect x="679" y="502" width="72" height="30" rx="4" fill="#9fa5a9" stroke="#424153"/>
+<rect x="765" y="502" width="72" height="30" rx="4" fill="#d9dbdc" stroke="#424153"/>
+<rect x="851" y="502" width="72" height="30" rx="4" fill="#798186" stroke="#424153"/>
+<rect x="937" y="502" width="72" height="30" rx="4" fill="#aeaeae" stroke="#424153"/>
+<rect x="1023" y="502" width="72" height="30" rx="4" fill="#707070" stroke="#424153"/>
+<text x="32" y="566" font-size="16">10  Void</text>
+<rect x="335" y="543" width="72" height="30" rx="4" fill="#05010C" stroke="#424153"/>
+<rect x="421" y="543" width="72" height="30" rx="4" fill="#FFFFFF" stroke="#424153"/>
+<rect x="507" y="543" width="72" height="30" rx="4" fill="#BB9AF7" stroke="#424153"/>
+<rect x="593" y="543" width="72" height="30" rx="4" fill="#F07178" stroke="#424153"/>
+<rect x="679" y="543" width="72" height="30" rx="4" fill="#C2B8FF" stroke="#424153"/>
+<rect x="765" y="543" width="72" height="30" rx="4" fill="#DDCCFF" stroke="#424153"/>
+<rect x="851" y="543" width="72" height="30" rx="4" fill="#BB9AF7" stroke="#424153"/>
+<rect x="937" y="543" width="72" height="30" rx="4" fill="#B49AE6" stroke="#424153"/>
+<rect x="1023" y="543" width="72" height="30" rx="4" fill="#A6B8FF" stroke="#424153"/>
+<text x="32" y="607" font-size="16">11  Ayaka</text>
+<rect x="335" y="584" width="72" height="30" rx="4" fill="#000000" stroke="#424153"/>
+<rect x="421" y="584" width="72" height="30" rx="4" fill="#e6e6e6" stroke="#424153"/>
+<rect x="507" y="584" width="72" height="30" rx="4" fill="#6699ff" stroke="#424153"/>
+<rect x="593" y="584" width="72" height="30" rx="4" fill="#e65c5c" stroke="#424153"/>
+<rect x="679" y="584" width="72" height="30" rx="4" fill="#66cc66" stroke="#424153"/>
+<rect x="765" y="584" width="72" height="30" rx="4" fill="#ffcc66" stroke="#424153"/>
+<rect x="851" y="584" width="72" height="30" rx="4" fill="#6699ff" stroke="#424153"/>
+<rect x="937" y="584" width="72" height="30" rx="4" fill="#cc66cc" stroke="#424153"/>
+<rect x="1023" y="584" width="72" height="30" rx="4" fill="#66cccc" stroke="#424153"/>
+<text x="32" y="648" font-size="16">12  Felix</text>
+<rect x="335" y="625" width="72" height="30" rx="4" fill="#000000" stroke="#424153"/>
+<rect x="421" y="625" width="72" height="30" rx="4" fill="#e7e9ea" stroke="#424153"/>
+<rect x="507" y="625" width="72" height="30" rx="4" fill="#ff8852" stroke="#424153"/>
+<rect x="593" y="625" width="72" height="30" rx="4" fill="#8a8a8a" stroke="#424153"/>
+<rect x="679" y="625" width="72" height="30" rx="4" fill="#e7e9ea" stroke="#424153"/>
+<rect x="765" y="625" width="72" height="30" rx="4" fill="#9e9e9e" stroke="#424153"/>
+<rect x="851" y="625" width="72" height="30" rx="4" fill="#626262" stroke="#424153"/>
+<rect x="937" y="625" width="72" height="30" rx="4" fill="#8a8a8a" stroke="#424153"/>
+<rect x="1023" y="625" width="72" height="30" rx="4" fill="#767676" stroke="#424153"/>
+<text x="32" y="689" font-size="16">13  IBM</text>
+<rect x="335" y="666" width="72" height="30" rx="4" fill="#050709" stroke="#424153"/>
+<rect x="421" y="666" width="72" height="30" rx="4" fill="#ffffff" stroke="#424153"/>
+<rect x="507" y="666" width="72" height="30" rx="4" fill="#727272" stroke="#424153"/>
+<rect x="593" y="666" width="72" height="30" rx="4" fill="#66a773" stroke="#424153"/>
+<rect x="679" y="666" width="72" height="30" rx="4" fill="#d24646" stroke="#424153"/>
+<rect x="765" y="666" width="72" height="30" rx="4" fill="#b4b47b" stroke="#424153"/>
+<rect x="851" y="666" width="72" height="30" rx="4" fill="#727272" stroke="#424153"/>
+<rect x="937" y="666" width="72" height="30" rx="4" fill="#8686ba" stroke="#424153"/>
+<rect x="1023" y="666" width="72" height="30" rx="4" fill="#a360a3" stroke="#424153"/>
+<text x="32" y="730" font-size="16">14  One Dark Pro</text>
+<rect x="335" y="707" width="72" height="30" rx="4" fill="#282c34" stroke="#424153"/>
+<rect x="421" y="707" width="72" height="30" rx="4" fill="#abb2bf" stroke="#424153"/>
+<rect x="507" y="707" width="72" height="30" rx="4" fill="#61afef" stroke="#424153"/>
+<rect x="593" y="707" width="72" height="30" rx="4" fill="#e06c75" stroke="#424153"/>
+<rect x="679" y="707" width="72" height="30" rx="4" fill="#98c379" stroke="#424153"/>
+<rect x="765" y="707" width="72" height="30" rx="4" fill="#e5c07b" stroke="#424153"/>
+<rect x="851" y="707" width="72" height="30" rx="4" fill="#61afef" stroke="#424153"/>
+<rect x="937" y="707" width="72" height="30" rx="4" fill="#c678dd" stroke="#424153"/>
+<rect x="1023" y="707" width="72" height="30" rx="4" fill="#56b6c2" stroke="#424153"/>
+<text x="32" y="771" font-size="16">15  Ash</text>
+<rect x="335" y="748" width="72" height="30" rx="4" fill="#121212" stroke="#424153"/>
+<rect x="421" y="748" width="72" height="30" rx="4" fill="#e0e0e0" stroke="#424153"/>
+<rect x="507" y="748" width="72" height="30" rx="4" fill="#626262" stroke="#424153"/>
+<rect x="593" y="748" width="72" height="30" rx="4" fill="#8a8a8a" stroke="#424153"/>
+<rect x="679" y="748" width="72" height="30" rx="4" fill="#767676" stroke="#424153"/>
+<rect x="765" y="748" width="72" height="30" rx="4" fill="#9e9e9e" stroke="#424153"/>
+<rect x="851" y="748" width="72" height="30" rx="4" fill="#626262" stroke="#424153"/>
+<rect x="937" y="748" width="72" height="30" rx="4" fill="#8a8a8a" stroke="#424153"/>
+<rect x="1023" y="748" width="72" height="30" rx="4" fill="#767676" stroke="#424153"/>
+<text x="32" y="812" font-size="16">16  Mars</text>
+<rect x="335" y="789" width="72" height="30" rx="4" fill="#000000" stroke="#424153"/>
+<rect x="421" y="789" width="72" height="30" rx="4" fill="#D9AFA7" stroke="#424153"/>
+<rect x="507" y="789" width="72" height="30" rx="4" fill="#7B534E" stroke="#424153"/>
+<rect x="593" y="789" width="72" height="30" rx="4" fill="#E07B5F" stroke="#424153"/>
+<rect x="679" y="789" width="72" height="30" rx="4" fill="#7B534E" stroke="#424153"/>
+<rect x="765" y="789" width="72" height="30" rx="4" fill="#C45A3F" stroke="#424153"/>
+<rect x="851" y="789" width="72" height="30" rx="4" fill="#7B534E" stroke="#424153"/>
+<rect x="937" y="789" width="72" height="30" rx="4" fill="#A0392F" stroke="#424153"/>
+<rect x="1023" y="789" width="72" height="30" rx="4" fill="#7B534E" stroke="#424153"/>
+<text x="32" y="853" font-size="16">17  Blackturq</text>
+<rect x="335" y="830" width="72" height="30" rx="4" fill="#0a0a0a" stroke="#424153"/>
+<rect x="421" y="830" width="72" height="30" rx="4" fill="#c8dcdc" stroke="#424153"/>
+<rect x="507" y="830" width="72" height="30" rx="4" fill="#ADF0E9" stroke="#424153"/>
+<rect x="593" y="830" width="72" height="30" rx="4" fill="#D35F5F" stroke="#424153"/>
+<rect x="679" y="830" width="72" height="30" rx="4" fill="#8FECD5" stroke="#424153"/>
+<rect x="765" y="830" width="72" height="30" rx="4" fill="#A9D1D7" stroke="#424153"/>
+<rect x="851" y="830" width="72" height="30" rx="4" fill="#ADF0E9" stroke="#424153"/>
+<rect x="937" y="830" width="72" height="30" rx="4" fill="#485362" stroke="#424153"/>
+<rect x="1023" y="830" width="72" height="30" rx="4" fill="#5a676b" stroke="#424153"/>
+<text x="32" y="894" font-size="16">18  Rose Pine Dark</text>
+<rect x="335" y="871" width="72" height="30" rx="4" fill="#191724" stroke="#424153"/>
+<rect x="421" y="871" width="72" height="30" rx="4" fill="#e0def4" stroke="#424153"/>
+<rect x="507" y="871" width="72" height="30" rx="4" fill="#ebbcba" stroke="#424153"/>
+<rect x="593" y="871" width="72" height="30" rx="4" fill="#eb6f92" stroke="#424153"/>
+<rect x="679" y="871" width="72" height="30" rx="4" fill="#31748f" stroke="#424153"/>
+<rect x="765" y="871" width="72" height="30" rx="4" fill="#f6c177" stroke="#424153"/>
+<rect x="851" y="871" width="72" height="30" rx="4" fill="#9ccfd8" stroke="#424153"/>
+<rect x="937" y="871" width="72" height="30" rx="4" fill="#c4a7e7" stroke="#424153"/>
+<rect x="1023" y="871" width="72" height="30" rx="4" fill="#ebbcba" stroke="#424153"/>
+<text x="32" y="935" font-size="16">19  Space Monkey</text>
+<rect x="335" y="912" width="72" height="30" rx="4" fill="#1c0e00" stroke="#424153"/>
+<rect x="421" y="912" width="72" height="30" rx="4" fill="#e7aa5a" stroke="#424153"/>
+<rect x="507" y="912" width="72" height="30" rx="4" fill="#BD4924" stroke="#424153"/>
+<rect x="593" y="912" width="72" height="30" rx="4" fill="#fd6883" stroke="#424153"/>
+<rect x="679" y="912" width="72" height="30" rx="4" fill="#DF782D" stroke="#424153"/>
+<rect x="765" y="912" width="72" height="30" rx="4" fill="#f9cc6c" stroke="#424153"/>
+<rect x="851" y="912" width="72" height="30" rx="4" fill="#66A891" stroke="#424153"/>
+<rect x="937" y="912" width="72" height="30" rx="4" fill="#a8a9eb" stroke="#424153"/>
+<rect x="1023" y="912" width="72" height="30" rx="4" fill="#BD4924" stroke="#424153"/>
+<text x="32" y="976" font-size="16">20  Black Gold</text>
+<rect x="335" y="953" width="72" height="30" rx="4" fill="#0D0D0D" stroke="#424153"/>
+<rect x="421" y="953" width="72" height="30" rx="4" fill="#ebdbb2" stroke="#424153"/>
+<rect x="507" y="953" width="72" height="30" rx="4" fill="#6E6A58" stroke="#424153"/>
+<rect x="593" y="953" width="72" height="30" rx="4" fill="#D35F5F" stroke="#424153"/>
+<rect x="679" y="953" width="72" height="30" rx="4" fill="#a3850e" stroke="#424153"/>
+<rect x="765" y="953" width="72" height="30" rx="4" fill="#4D574E" stroke="#424153"/>
+<rect x="851" y="953" width="72" height="30" rx="4" fill="#6E6A58" stroke="#424153"/>
+<rect x="937" y="953" width="72" height="30" rx="4" fill="#BFA75D" stroke="#424153"/>
+<rect x="1023" y="953" width="72" height="30" rx="4" fill="#7A6A2C" stroke="#424153"/>
+<text x="32" y="1017" font-size="16">21  Midnight</text>
+<rect x="335" y="994" width="72" height="30" rx="4" fill="#000000" stroke="#424153"/>
+<rect x="421" y="994" width="72" height="30" rx="4" fill="#EFEFEF" stroke="#424153"/>
+<rect x="507" y="994" width="72" height="30" rx="4" fill="#407e70" stroke="#424153"/>
+<rect x="593" y="994" width="72" height="30" rx="4" fill="#D35F5F" stroke="#424153"/>
+<rect x="679" y="994" width="72" height="30" rx="4" fill="#8A9A7B" stroke="#424153"/>
+<rect x="765" y="994" width="72" height="30" rx="4" fill="#FFC107" stroke="#424153"/>
+<rect x="851" y="994" width="72" height="30" rx="4" fill="#8A9FBE" stroke="#424153"/>
+<rect x="937" y="994" width="72" height="30" rx="4" fill="#C1A1C1" stroke="#424153"/>
+<rect x="1023" y="994" width="72" height="30" rx="4" fill="#88AABB" stroke="#424153"/>
+<text x="32" y="1058" font-size="16">22  Mechanoonna</text>
+<rect x="335" y="1035" width="72" height="30" rx="4" fill="#1c1b19" stroke="#424153"/>
+<rect x="421" y="1035" width="72" height="30" rx="4" fill="#f0e4c5" stroke="#424153"/>
+<rect x="507" y="1035" width="72" height="30" rx="4" fill="#d4bd99" stroke="#424153"/>
+<rect x="593" y="1035" width="72" height="30" rx="4" fill="#c5564a" stroke="#424153"/>
+<rect x="679" y="1035" width="72" height="30" rx="4" fill="#a89984" stroke="#424153"/>
+<rect x="765" y="1035" width="72" height="30" rx="4" fill="#ebdbb2" stroke="#424153"/>
+<rect x="851" y="1035" width="72" height="30" rx="4" fill="#908d88" stroke="#424153"/>
+<rect x="937" y="1035" width="72" height="30" rx="4" fill="#afa499" stroke="#424153"/>
+<rect x="1023" y="1035" width="72" height="30" rx="4" fill="#d4bd99" stroke="#424153"/>
+<text x="32" y="1099" font-size="16">23  Rainynight</text>
+<rect x="335" y="1076" width="72" height="30" rx="4" fill="#1e1e2e" stroke="#424153"/>
+<rect x="421" y="1076" width="72" height="30" rx="4" fill="#cdd6f4" stroke="#424153"/>
+<rect x="507" y="1076" width="72" height="30" rx="4" fill="#89b4fa" stroke="#424153"/>
+<rect x="593" y="1076" width="72" height="30" rx="4" fill="#f38ba8" stroke="#424153"/>
+<rect x="679" y="1076" width="72" height="30" rx="4" fill="#a6e3a1" stroke="#424153"/>
+<rect x="765" y="1076" width="72" height="30" rx="4" fill="#f9e2af" stroke="#424153"/>
+<rect x="851" y="1076" width="72" height="30" rx="4" fill="#89b4fa" stroke="#424153"/>
+<rect x="937" y="1076" width="72" height="30" rx="4" fill="#cba6f7" stroke="#424153"/>
+<rect x="1023" y="1076" width="72" height="30" rx="4" fill="#94e2d5" stroke="#424153"/>
+<text x="32" y="1140" font-size="16">24  Flexoki Dark</text>
+<rect x="335" y="1117" width="72" height="30" rx="4" fill="#100F0F" stroke="#424153"/>
+<rect x="421" y="1117" width="72" height="30" rx="4" fill="#CECDC3" stroke="#424153"/>
+<rect x="507" y="1117" width="72" height="30" rx="4" fill="#4385BE" stroke="#424153"/>
+<rect x="593" y="1117" width="72" height="30" rx="4" fill="#AF3029" stroke="#424153"/>
+<rect x="679" y="1117" width="72" height="30" rx="4" fill="#66800B" stroke="#424153"/>
+<rect x="765" y="1117" width="72" height="30" rx="4" fill="#AD8301" stroke="#424153"/>
+<rect x="851" y="1117" width="72" height="30" rx="4" fill="#205EA6" stroke="#424153"/>
+<rect x="937" y="1117" width="72" height="30" rx="4" fill="#A02F6F" stroke="#424153"/>
+<rect x="1023" y="1117" width="72" height="30" rx="4" fill="#24837B" stroke="#424153"/>
+<text x="32" y="1181" font-size="16">25  City-783</text>
+<rect x="335" y="1158" width="72" height="30" rx="4" fill="#181a1f" stroke="#424153"/>
+<rect x="421" y="1158" width="72" height="30" rx="4" fill="#b9bec6" stroke="#424153"/>
+<rect x="507" y="1158" width="72" height="30" rx="4" fill="#ad2222" stroke="#424153"/>
+<rect x="593" y="1158" width="72" height="30" rx="4" fill="#e53939" stroke="#424153"/>
+<rect x="679" y="1158" width="72" height="30" rx="4" fill="#dce0e6" stroke="#424153"/>
+<rect x="765" y="1158" width="72" height="30" rx="4" fill="#9e1a1a" stroke="#424153"/>
+<rect x="851" y="1158" width="72" height="30" rx="4" fill="#ad2222" stroke="#424153"/>
+<rect x="937" y="1158" width="72" height="30" rx="4" fill="#c3c8d0" stroke="#424153"/>
+<rect x="1023" y="1158" width="72" height="30" rx="4" fill="#8f949c" stroke="#424153"/>
+<text x="32" y="1220" fill="#929ba8" font-size="13">Same swatch area for comparison; actual interface color proportions differ.</text></g></svg>
