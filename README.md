@@ -79,13 +79,13 @@ omarchy theme set retro-82
 
 ## Wallpapers
 
-Four wallpaper options are included, copied under Mountainscape filenames without changing the images or original downloads:
+Four wallpaper options are included under Mountainscape filenames. `mountainscape-04.webp` is re-encoded as WebP at 3840×2560 to reduce download size; the other three photographs retain their original image files:
 
 | Supplied file | Theme filename |
 | --- | --- |
 | `wallhaven.jpg` | [mountainscape.jpg](backgrounds/mountainscape.jpg) |
 | `wallhaven3.jpg` | [mountainscape-03.jpg](backgrounds/mountainscape-03.jpg) |
-| `wallhaven4.jpg` | [mountainscape-04.jpg](backgrounds/mountainscape-04.jpg) |
+| `wallhaven4.jpg` | [mountainscape-04.webp](backgrounds/mountainscape-04.webp) |
 | `wallhaven5.jpg` | [mountainscape-05.jpg](backgrounds/mountainscape-05.jpg) |
 
 A fresh installation starts with `mountainscape-03.jpg` (Summit Cloud), following Omarchy’s alphabetical ordering. The valley image shown in the preview is `mountainscape.jpg`.

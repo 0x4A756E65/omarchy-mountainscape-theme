@@ -8,8 +8,10 @@ Checked September 6, 2026 using the user's supplied download URLs, targeted Chro
 | --- | --- | --- | --- |
 | backgrounds/mountainscape.jpg | wallhaven-lydwyy.jpg, subsequently wallhaven.jpg | [lydwyy](https://wallhaven.cc/w/lydwyy) | [dr.rol on Flickr](https://www.flickr.com/photos/rol65/51446130271) — source page displays **All rights reserved**. No redistribution permission has been established in this review. |
 | backgrounds/mountainscape-03.jpg | wallhaven3.jpg | [kwpprm](https://wallhaven.cc/w/kwpprm) | Wallhaven uploader: longtail. Original source field is empty; photographer and redistribution permission remain unverified. |
-| backgrounds/mountainscape-04.jpg | wallhaven4.jpg | [mlpll9](https://wallhaven.cc/w/mlpll9) | Wallhaven uploader: snowarc. Original source field is empty; photographer and redistribution permission remain unverified. |
+| backgrounds/mountainscape-04.webp | wallhaven4.jpg | [mlpll9](https://wallhaven.cc/w/mlpll9) | Wallhaven uploader: snowarc. Original source field is empty; photographer and redistribution permission remain unverified. |
 | backgrounds/mountainscape-05.jpg | wallhaven5.jpg | [g7zl1e](https://wallhaven.cc/w/g7zl1e) | [Dolomites #13 by Hendrik Kespohl](https://unsplash.com/photos/green-trees-and-snow-covered-mountains-during-daytime-1YQDhLtB9yU), published November 3, 2020. Source page identifies the **Unsplash License**. |
+
+`mountainscape-04.webp` is a resized, re-encoded derivative of the original `wallhaven4.jpg` download (6000×4000 → 3840×2560); its source attribution is unchanged.
 
 The original valley image's mapping is supported by the user's URL list, the browser's original download record, and matching Wallhaven metadata dimensions (5120×2880) and exact file size (3,791,739 bytes). A remote byte-for-byte comparison was not performed. The three alternative names map directly to their recorded download URLs. A Wallhaven uploader is not necessarily the photographer.
 

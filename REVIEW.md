@@ -18,7 +18,7 @@ This is a composed comparison using the theme's colors. Its layouts are illustra
 | --- | --- | --- |
 | mountainscape.jpg | Best default: valley light | Teal shadows and moss give the strongest relationship to the full palette. |
 | mountainscape-03.jpg | Most dramatic: summit cloud | Blue-violet snow, golden clouds, and dark earth support blue, lavender, orange, and gold. |
-| mountainscape-04.jpg | Most expressive: sunset peaks | Rose snow relates to the warm semantic colors; cyan sky and blue foothills keep it in the collection. |
+| mountainscape-04.webp | Most expressive: sunset peaks | Rose snow relates to the warm semantic colors; cyan sky and blue foothills keep it in the collection. |
 | mountainscape-05.jpg | Calmest alternate: morning mist | Cool haze, evergreen slopes, and peach sunrise support the understated cool/warm balance. |
 
 The brighter skies of 04 and 05 make dark windows more prominent. Opaque application surfaces and restrained accent use keep those views comfortable. Do not add transparency to the theme. Existing desktop opacity preferences remain the user's choice. In future promotional shots, leave 03's summit unobstructed; the comparison intentionally keeps layouts identical.
